@@ -1,0 +1,9 @@
+1. Create a new repository
+2. Get the HTTPS/SSH link & clone in your local
+
+git init
+git remote add origin clone_link
+git remote -v
+
+3. .github/workflows/simple.yml
+4. 
